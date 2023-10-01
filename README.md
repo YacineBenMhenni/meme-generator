@@ -1,3 +1,3 @@
 # Design
 
-(./design/design.png)
+(src/design/design.png)
