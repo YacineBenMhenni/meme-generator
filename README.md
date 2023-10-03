@@ -1,3 +1,3 @@
 # Meme generator
 
-![](./src/design/design.png)
+![](./public/design/design.png)
