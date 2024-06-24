@@ -9,7 +9,6 @@ This is a solution to the [Invoice app challenge on Frontend Mentor](https://www
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -39,8 +38,3 @@ Users should be able to:
 - [Next-Auth](https://next-auth.js.org/) - Next Auth
 - [MongoDB](https://www.mongodb.com/) - MongoDB
 - [TypeScript](https://www.typescriptlang.org/) - TypeScript
-
-## Author
-
-- Website - [Greg Solomon](https://www.gregsolomon.dev)
-- Frontend Mentor - [@greg-solomon](https://www.frontendmentor.io/profile/greg-solomon)
