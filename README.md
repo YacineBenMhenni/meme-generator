@@ -6,7 +6,6 @@ This is a solution to the [Invoice app challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -24,11 +23,6 @@ Users should be able to:
 - Filter invoices by status (draft/pending/paid)
 - Toggle light and dark mode
 - **Bonus**: Keep track of any changes, even after refreshing the browser (`localStorage` could be used for this if you're not building out a full-stack app)
-
-### Links
-
-- Solution URL: [Github](https://github.com/greg-solomon/invoice-app)
-- Live Site URL: [Live](https://invoice-app-flame.vercel.app/)
 
 ### Built with
 
